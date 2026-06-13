@@ -208,4 +208,4 @@ The final prompt system successfully generates authentic UGC-style advertising c
 
 Detailed project documentation is available in:
 
-- UGC_Ad_Content_Documentation.docx
+- UGC_Ad_Content_Documentation.pdf
